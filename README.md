@@ -3,7 +3,7 @@
 ## Problem defenition
 
 ### Introduction
-In today's highly competitive business landscape, customer retention is of utmost importance for companies seeking sustainable growth and profitability. Understanding and predicting customer churn, the phenomenon where customers discontinue their relationship with a company, is crucial for businesses to proactively address customer attrition and implement effective retention strategies.
+In today's highly competitive business landscape, customer retention is of utmost importance for companies seeking sustainable growth and profitability. Understanding and predicting customer churn, the phenomenon where customers discontinue their relationship with a company, is crucial for businesses to proactively address customer attrition and implement effective retention strategies. 
 
 
 ### Objective
